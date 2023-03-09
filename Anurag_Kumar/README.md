@@ -32,3 +32,6 @@
 - [x]  26 > [Redirection and Piping](Progress/026/Readme.md)
 - [x]  27 > [Networking Devices](Progress/027/Readme.md)
 - [x]  28 > [Configmap and secret](Progress/028/Readme.md)
+- [x]  29 > [Falco](Progress/029/Readme.md)
+- [x]  30 > [linux networking and apparmor](Progress/030/Readme.md)
+- [x]  31 > [Kubernetes Jobs](Progress/031/Readme.md)
